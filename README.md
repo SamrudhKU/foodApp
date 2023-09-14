@@ -1,2 +1,0 @@
-# foodApp
-MERN Stack project
